@@ -17,22 +17,15 @@
         "title": "The Ideal Running Tool",
         "year": 2025,
         "image": "../images/irt.png",
-        "description": "This website aims to provide the ideal running workout given a person's biometrics and workout goals.",
+        "description": "This project aims to provide the ideal running workout given a person's biometrics and workout goals, using a knn model and athletic data from a Valencia 2017 study.",
         "url": "https://lsherles.github.io/WeLoveSpeed/"
-    },
-    {
-        "title": "Interactive Bike Traffic Map",
-        "year": 2025,
-        "image": "../images/boston.png",
-        "description": "Check out this interactive bike traffic map that I made using D3! It contains bike traffic throughout the day in the Boston area.",
-        "url": "https://lsherles.github.io/streetrunner/"
     },
 
     {
         "title": "NBA Injuries and Rest Days Analysis",
         "year": 2024,
         "image": "../images/nbpng.png",
-        "description": "An analysis of how teams in the NBA are affected by injuries and varying amounts of rest. The project utilizes data visualization techniques to present the findings in an engaging and informative manner.",
+        "description": "An analysis of how teams in the NBA are affected by injuries and varying amounts of rest. The project analyzes how rest days are scheduled, assesess fairness, and utilizes data visualization techniques to present findings..",
         "url": "https://github.com/lsherles/NBA-Rest-Days-Analysis/blob/main/Full%20Proposal.ipynb"
     },
     {
